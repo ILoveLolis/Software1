@@ -39,6 +39,7 @@ aside {
     border: 3px solid black;
     max-height: 25%;
     max-width: 25%;
+    margin-right: 5%;
 }
 
 h4 {
@@ -58,4 +59,7 @@ h4 {
 a{
     text-decoration: none;
     color: #191e34;
+}
+p, a, h1, h2, h3, h4 {
+    font: Calibri;
 }
